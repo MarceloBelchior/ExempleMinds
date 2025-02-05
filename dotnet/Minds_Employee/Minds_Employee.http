@@ -1,0 +1,6 @@
+@Minds_Employee_HostAddress = http://localhost:5259
+
+GET {{Minds_Employee_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

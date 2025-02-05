@@ -1,0 +1,6 @@
+@Minds.WebAPI_HostAddress = http://localhost:5265
+
+GET {{Minds.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
